@@ -1,1 +1,5 @@
 "I only exist to try and create a branch."
+
+Stealing from Jason:
+  with open(f'./{self.year}/day{self.day}/{filename}') as f:
+      input = [line.strip('\n') for line in f]
